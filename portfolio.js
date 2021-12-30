@@ -4,7 +4,7 @@ export const greetings = {
 	name: "Hasan Shahid Kibria",
 	title: "Hi there, I'm Hasan",
 	description:
-		"",
+		"I am a fourth year software eng student!",
 	resumeLink: "https://cv.hanzla.ga",
 };
 
